@@ -1,0 +1,46 @@
+{
+    "code":1,
+    "message":"success",
+    "data":[
+        {
+            "id":1,
+            "name":"砖石卡",
+            "condition":1,
+            "period":1,
+            "rights":[3],
+            "status":1
+        },
+        {
+            "id":2,
+            "name":"会员卡",
+            "condition":2,
+            "period":2,
+            "rights":[1],
+            "status":2
+        },
+        {
+            "id":3,
+            "name":"白金卡",
+            "condition":3,
+            "period":"2019-11-19 ~ 2020-11-19",
+            "rights":[2],
+            "status":3
+        },
+        {
+            "id":4,
+            "name":"信用卡",
+            "condition":1,
+            "period":1,
+            "rights":[4],
+            "status":1
+        },
+        {
+            "id":5,
+            "name":"银行卡",
+            "condition":1,
+            "period":1,
+            "rights":[3],
+            "status":1
+        }
+    ]
+}
